@@ -36,3 +36,7 @@ Very simple, did not use any in class examples for this so i'm not sure how it d
 
 screenshot graph 
 screenshot scene 
+
+
+
+sorry was un able to link screenshots in time but all the screenshots have been uploaded to git, sorry they don't have names but they are all there 
